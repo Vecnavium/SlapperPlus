@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Vecnavium/SlapperPlus
+build-by-default: true
+branches:
+- master
+- PM4
+projects:
+  SlapperPlus:
+    path: ""
+...
